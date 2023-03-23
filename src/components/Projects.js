@@ -425,7 +425,7 @@ export default function Project() {
               target="_blank"
               rel="noreferrer"
             >
-              @_TauqeerAhmad
+              Twitter : @_TauqeerAhmad
             </a>
             Medium : TauqeerAhmad5201
             <a
